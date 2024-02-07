@@ -1,8 +1,8 @@
-# scribox is a simple hackable tool to do things offline and share it with others
-
-## Its tool which can be used todo general things like
+# scribox is a simple hackable tool written in RUST to do things offline and share it with others
 
 ## This tool is going tobe a cli tool first and the UI will be added later
+
+## Its tool which can be used todo general things like with
 
 ### Documents
 
